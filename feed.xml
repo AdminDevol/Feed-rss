@@ -1,27 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   
+  
 
+  
   <channel>
     
+    
   
+    
     <title>Título de tu Feed</title>
     
+    
   
+    
     <link>https://tuusuario.github.io/mi-feed-rss/</link>
     
+    
   
+    
     <description>Descripción de tu feed RSS</description>
     
+    
   
+    
     <language>es-es</language>
     
+    
   
-    <lastBuildDate>Fri, 12 Sep 2025 11:37:50 +0000</lastBuildDate>
+    
+    <lastBuildDate>Tue, 16 Sep 2025 11:26:41 +0000</lastBuildDate>
+    
     
   
   
   
-    <item><title>La Justicia ordena a Airbnb retirar 5.800 anuncios de pisos turísticos de la plataforma</title><link>https://www.deia.eus/economia/2025/06/19/justicia-ordena-airbnb-retirar-5-9781458.html</link><description>El Tribunal Superior de Justicia de Madrid (TSJM) ha emitido un nuevo auto en el que ha desestimado el recurso de reposición de Airbnb y ha ordenado la retirada de 5.800 anuncios en la plataforma, según ha adelantado este jueves el ministro de Derechos Sociales, Consumo y Agenda 2030, Pablo Bustinduy. Hace unas semanas este tribunal dictó un auto avalando las actuaciones del Ministerio y, por tanto, exigiendo a la plataforma que retirara esos anuncios ilegales. Airbnb presentó un recurso de reposición ante el mismo tribunal y hace apenas unos minutos he recibido la información de que han vuelto a perder, ha explicado tras la celebración de Consejo Territorial de Derechos Sociales en el Imserso. Consumo impone a Airbnb el bloqueo de casi 66.000 anuncios ilegales de pisos turísticos Los anuncios sobre los que se ha pronunciado el tribunal en este segundo auto afectan a la publicidad de viviendas turísticas que se encuentran en Andalucía, Comunidad de Madrid, Catalunya, Comunidad Valenciana, Islas Baleares y Euskadi. Así, estos pisos turísticos anunciados estarían incumplimiento tres supuestos, según Consumo: la ausencia del número de licencia o registro para operar como alojamiento turísticos, la inclusión de números de licencia que no corresponden a los expedidos por las autoridades y la falta de información naturaleza jurídica de los arrendadores. Ninguna empresa está por encima de la ley En su reacción al nuevo auto, el ministro ha calificado como importante esta noticia, ya que supone la ratificación de que ninguna empresa puede estar por encima de la ley. En palabras de Bustinduy, en España hay un puñado de empresas, de fondos de inversión, de grandes plataformas que se están lucrando a costa de cercenar el derecho constitucional a la vivienda de millones de familias en nuestro país. En este contexto, también ha manifestado públicamente su objetivo de colaborar con las administraciones públicas competentes para acabar con el descontrol y la ilegalidad generalizada de alojamientos turísticos, así como para favorecer el acceso a la vivienda y blindar los derechos de las personas consumidoras. En mayo Consumo instó a la compañía el bloqueo de casi 66.000 anuncios ilegales de viviendas turísticas. En concreto, esta retirada de anuncios corresponde a la primera de tres requerimientos. Sobre las otras disposiciones, el ministro ya afirmó, anteriormente, que espera que el resultado sea el mismo, ya que cree que la compañía habrá recurrido, aunque los argumentos son los mismos.</description><pubDate>Thu, 19 Jun 2025 11:39:00 GMT</pubDate></item></channel>
+    
+    <item>
+      <title>La Justicia ordena a Airbnb retirar 5.800 anuncios de pisos turísticos de la plataforma</title>
+      <link>https://www.deia.eus/economia/2025/06/19/justicia-ordena-airbnb-retirar-5-9781458.html</link>
+      <description>El Tribunal Superior de Justicia de Madrid (TSJM) ha emitido un nuevo auto en el que ha desestimado el recurso de reposición de Airbnb y ha ordenado la retirada de 5.800 anuncios en la plataforma, según ha adelantado este jueves el ministro de Derechos Sociales, Consumo y Agenda 2030, Pablo Bustinduy. Hace unas semanas este tribunal dictó un auto avalando las actuaciones del Ministerio y, por tanto, exigiendo a la plataforma que retirara esos anuncios ilegales. Airbnb presentó un recurso de reposición ante el mismo tribunal y hace apenas unos minutos he recibido la información de que han vuelto a perder, ha explicado tras la celebración de Consejo Territorial de Derechos Sociales en el Imserso. Consumo impone a Airbnb el bloqueo de casi 66.000 anuncios ilegales de pisos turísticos Los anuncios sobre los que se ha pronunciado el tribunal en este segundo auto afectan a la publicidad de viviendas turísticas que se encuentran en Andalucía, Comunidad de Madrid, Catalunya, Comunidad Valenciana, Islas Baleares y Euskadi. Así, estos pisos turísticos anunciados estarían incumplimiento tres supuestos, según Consumo: la ausencia del número de licencia o registro para operar como alojamiento turísticos, la inclusión de números de licencia que no corresponden a los expedidos por las autoridades y la falta de información naturaleza jurídica de los arrendadores. Ninguna empresa está por encima de la ley En su reacción al nuevo auto, el ministro ha calificado como importante esta noticia, ya que supone la ratificación de que ninguna empresa puede estar por encima de la ley. En palabras de Bustinduy, en España hay un puñado de empresas, de fondos de inversión, de grandes plataformas que se están lucrando a costa de cercenar el derecho constitucional a la vivienda de millones de familias en nuestro país. En este contexto, también ha manifestado públicamente su objetivo de colaborar con las administraciones públicas competentes para acabar con el descontrol y la ilegalidad generalizada de alojamientos turísticos, así como para favorecer el acceso a la vivienda y blindar los derechos de las personas consumidoras. En mayo Consumo instó a la compañía el bloqueo de casi 66.000 anuncios ilegales de viviendas turísticas. En concreto, esta retirada de anuncios corresponde a la primera de tres requerimientos. Sobre las otras disposiciones, el ministro ya afirmó, anteriormente, que espera que el resultado sea el mismo, ya que cree que la compañía habrá recurrido, aunque los argumentos son los mismos.</description>
+      <pubDate>Thu, 19 Jun 2025 11:39:00 GMT</pubDate>
+    </item>
+  </channel>
   
+  
+
 
 </rss>
